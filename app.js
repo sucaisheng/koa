@@ -73,7 +73,7 @@ async function updateData(VALUES){
 //updateData([123456,1]);
 //deleteData("苏财胜");
 //getData();
-//addData(["yvh",123456789]);
+//addData(["苏财胜",123456789]);
 
 app.use(json());
 
